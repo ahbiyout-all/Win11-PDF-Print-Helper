@@ -1,0 +1,6 @@
+{
+  "name": "Win11 PDF Print Helper2",
+  "description": "대용량(5000페이지 이상) PDF 문서를 안정적으로 인쇄하기 위해 분할 및 관리해주는 윈도우 11 스타일의 출력 도우미입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
